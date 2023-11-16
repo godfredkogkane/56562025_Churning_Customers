@@ -30,7 +30,9 @@ This project aims to predict customer churn in a telecommunications company usin
 
 - **Model Deployment:**
   - Saved the best-performing model and the associated scaler for future use.
-  - I have attached a video showing how the models perform and the code for the deployment
+  - I have attached a video showing how the models perform and the code for the deployment.
+  - [Watch the Video](https://youtu.be/YF2RNPSu7ho)
+
 
 ## Files
 
@@ -41,7 +43,7 @@ This project aims to predict customer churn in a telecommunications company usin
 ## Dependencies
 
 - Python 3.x
-- Libraries: Pandas, NumPy, Seaborn, TensorFlow, Keras, Scikit-Learn, Matplotlib.
+- Libraries: Pandas, NumPy, Seaborn, TensorFlow, Keras, Scikit-Learn, and Matplotlib.
 
 ## Usage
 
